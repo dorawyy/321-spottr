@@ -1,4 +1,4 @@
-/*eslint-env jest*/
+
 
 const workoutData = require("../data/workoutData.js");
 const userData = require("../data/userData.js");

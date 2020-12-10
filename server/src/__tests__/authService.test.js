@@ -1,4 +1,4 @@
-/*eslint-env jest*/
+
 var authService = require("../service/authService.js");
 
 jest.mock("../data/tokenData.js");

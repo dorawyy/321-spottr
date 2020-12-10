@@ -1,4 +1,4 @@
-/*eslint-env jest*/
+
 const constants = require("../constants.js");
 const workoutService = require("../service/workoutService");
 
